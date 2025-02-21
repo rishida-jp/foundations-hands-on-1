@@ -2,7 +2,8 @@
 
 ## Hello GitHub
 - work1
+  - child1
 - work2
 
--[]check1
--[]check2
+- [ ] check1
+- [ ] check2
